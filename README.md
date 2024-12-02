@@ -2,9 +2,11 @@
 Project
 import java.util.*;
 
-class hart {
+class hart
+{
    Scanner sc=new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
     int i,j,n;
     System.out.println("Enter value");
     n=sc.nextInt();
