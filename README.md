@@ -1,4 +1,4 @@
-# Java-Project
+ # Java-Project
 Project
 
     import java.util.*;
@@ -43,11 +43,7 @@ Project
     {
         System.out.print("*");
     }
-    System.out.println("");
-    
-    
-}
-    
-        
+    System.out.println(""); 
+    }   
     }
-}
+    }
