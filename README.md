@@ -1,6 +1,9 @@
  # Java-Project
 Project
-   
+  ❤️ Heart Shape yousing Java loop 
+  ![GraciasGIF (2)](https://github.com/user-attachments/assets/843c42c5-c56b-4f81-afae-5c85aea5ef9f)
+
+    
      import java.util.*;
      class heart {
 
