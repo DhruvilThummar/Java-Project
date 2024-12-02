@@ -1,11 +1,12 @@
 # Java-Project
 Project
-import java.util.*;
 
-class hart
-{
-   Scanner sc=new Scanner(System.in);
-    public static void main(String[] args) 
+    import java.util.*;
+
+    class hart
+    {
+    Scanner sc=new Scanner(System.in);   
+     public static void main(String[] args) 
     {
     int i,j,n;
     System.out.println("Enter value");
@@ -29,14 +30,14 @@ class hart
             System.out.print("*");
         }
         System.out.println("");
-}
+        }
 
-for(i=n;i>=1;i--)
-{
-    for(j=i;j<n;j++)
-    {
+        for(i=n;i>=1;i--)
+     {
+        for(j=i;j<n;j++)
+          {
         System.out.print(" ");
-    }
+         }
     
     for(j=1;j<=(i*2)-1;j++)
     {
